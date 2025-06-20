@@ -28,11 +28,11 @@ The testbench covers three main scenarios to demonstrate and verify SPI function
 
 **Waveform Example:**
 
-![SPI Simulation Screenshot](images/screenshot2.png)
+![SPI Simulation image](images/image2.png)
 
 **Terminal Output:**
 
-![SPI Simulation Screenshot](images/screenshot3.png)
+![SPI Simulation image](images/image3.png)
 
 ---
 
@@ -51,11 +51,11 @@ The testbench covers three main scenarios to demonstrate and verify SPI function
 
 **Waveform Example:**
 
-![SPI Simulation Screenshot](images/screenshot5.png)
+![SPI Simulation image](images/image5.png)
 
 **Terminal Output:**
 
-![SPI Simulation Screenshot](images/screenshot6.png)
+![SPI Simulation image](images/image6.png)
 
 ---
 
@@ -69,12 +69,12 @@ All communication parameters (data width, pause interval, etc.) are defined as c
 
 Below is a high-level block diagram of the SPI system as elaborated in Vivado:
 
-![SPI Simulation Screenshot](images/screenshot1.png)
+![SPI Simulation image](images/image1.png)
 
 ---
 
 ## Notes
 
-- All signals and data paths are clearly illustrated in the provided waveform screenshots.
+- All signals and data paths are clearly illustrated in the provided waveform images.
 - The design supports easy reconfiguration for custom SPI setups.
 - For further details, refer to the comments and documentation within the source files.
