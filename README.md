@@ -51,11 +51,11 @@ The testbench covers three main scenarios to demonstrate and verify SPI function
 
 **Waveform Example:**
 
-![SPI Simulation image](images/image5.png)
+![SPI Simulation image](images/image4.png)
 
 **Terminal Output:**
 
-![SPI Simulation image](images/image6.png)
+![SPI Simulation image](images/image5.png)
 
 ---
 
