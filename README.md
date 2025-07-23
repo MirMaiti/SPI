@@ -1,6 +1,6 @@
-# SPI Protocol Implementation in SystemVerilog
+# SPI Protocol Implementation in Verilog
 
-This repository provides a SystemVerilog implementation of the SPI (Serial Peripheral Interface) communication protocol, along with a comprehensive testbench to validate both single- and multi-peripheral configurations.
+This repository provides a Verilog implementation of the SPI (Serial Peripheral Interface) communication protocol, along with a comprehensive testbench to validate both single- and multi-peripheral configurations.
 
 ---
 
